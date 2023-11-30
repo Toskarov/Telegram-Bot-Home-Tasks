@@ -17,6 +17,7 @@ And type anything in your bot, you will see your Chat ID in your python console
 
 This program only gets the time when you use it. 
 So one of more ways is to run it when you turn on your pc.
+
 **To do it on windows:**
 - Make a shorcut for *Telegram_bot.py*
 
@@ -30,7 +31,8 @@ shell:startup
 ````
 *Copy the shorcut into the directory*, the program will start  when you log in to your account
 
-for linux use crontab and add the script path
+**To do it on Linux:**
+use crontab and add the script path
 ````bash
 crontab -e
 ````
