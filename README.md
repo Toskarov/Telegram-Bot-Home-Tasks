@@ -32,6 +32,7 @@ shell:startup
 *Copy the shorcut into the directory*, the program will start  when you log in to your account
 
 **To do it on Linux:**
+
 use crontab and add the script path
 ````bash
 crontab -e
