@@ -33,7 +33,7 @@ shell:startup
 
 **To do it on Linux:**
 
-use crontab and add the script path
+- Use crontab and add the script path
 ````bash
 crontab -e
 ````
