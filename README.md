@@ -19,6 +19,7 @@ This program only gets the time when you use it.
 So one of more ways is to run it when you turn on your pc.
 **To do it on windows:**
 - Make a shorcut for *Telegram_bot.py*
+
 *press:*
 ````Powershell
 Win+R
