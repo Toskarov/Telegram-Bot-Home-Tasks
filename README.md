@@ -37,7 +37,7 @@ shell:startup
 ````bash
 crontab -e
 ````
-add the path to the script and don't forget to do
+Add the path to the script and don't forget to do
 ````shell
 @reboot /script/path
 ````
