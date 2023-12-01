@@ -5,7 +5,6 @@
 For run this bot you need your telebot token, you can get it at **BotFather** _(it's a telegram bot to create your new bot)_ , just say 
 ```` telegram
 /newbot
-
 ````
 follow the steps and **copy the HTTP API** *(it's your telebot token)*
 
